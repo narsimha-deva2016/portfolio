@@ -39,3 +39,4 @@ const Typewriter = ({ texts, speed = 100, deleteSpeed = 50, delay = 2000 }) => {
 
 export default Typewriter;
 
+
